@@ -14,7 +14,7 @@ def main():
         data = [msg]
         vector = vectorizer.transform(data).toarray()
         pred = model.predict(vector)[0]
-        if(pred == 0):
+        if(pred == 1):
             st.success("Your mail is not SPAM.")
         else: st.error("Your mail is a SPAM.")
 
