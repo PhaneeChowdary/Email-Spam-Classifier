@@ -174,7 +174,4 @@ wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.6.0
 wordcloud==1.8.1
-xdg==5
-xkit==0.0.0
-youtube-dl==2021.12.17
-zipp==1.0.0
+pip==22.1.1
