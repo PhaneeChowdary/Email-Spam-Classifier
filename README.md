@@ -17,13 +17,13 @@ Open a terminal and run the following git command:
 Clone the project
 
 ```bash
-  git clone <Project-link>
+  git clone [Project-link]
 ```
 
 Go to the project directory
 
 ```bash
-  cd <project-directory>
+  cd [project-directory]
 ```
 
 Install dependencies
