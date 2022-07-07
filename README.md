@@ -7,7 +7,7 @@ This project aims to predict whether given mail is spam or not.
 
 ## Clone this repository
 
-Click on the code button and then click the copy to clipboard icon.
+Click on the code button and copy the link to this repo.
 
 Open a terminal and run the following git command:
 
