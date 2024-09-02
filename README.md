@@ -1,9 +1,9 @@
 
 # Email Spam Classifier
 
-This project aims to predict whether given mail is spam or not.
+This project aims to predict whether a given mail is spam or not.
 
- If you are intrested how this project works, follow the steps.
+ If you are interested in how this project works, follow the steps.
 
 ## Clone this repository
 
@@ -17,7 +17,7 @@ Open a terminal and run the following git command:
 Clone the project
 
 ```bash
-  git clone [Project-link]
+  git clone https://github.com/PhaneeChowdary/Email-Spam-Classifier
 ```
 
 Go to the project directory
